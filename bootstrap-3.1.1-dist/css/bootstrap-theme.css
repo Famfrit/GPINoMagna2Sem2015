@@ -4,6 +4,11 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+body
+{
+  font-family: Monaco,Georgia,Times,serif;
+}
+
 .btn-default,
 .btn-primary,
 .btn-success,
